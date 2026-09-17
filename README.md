@@ -1,2 +1,2 @@
 # mi-primer-proyecto-html
-Página web de una receta de masas de atún desarrollada únicamente con HTM
+Página web de una receta de masas de atún desarrollada únicamente con HTML
